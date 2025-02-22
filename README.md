@@ -29,7 +29,7 @@ A **Real-Time Traffic Congestion Predictor** that models a city's road network a
 
 ## 🎮 How It Works  
 
-1️⃣ **View Current Traffic Congestion** – Check live congestion levels of all roads.  
+1️⃣ View Current Traffic Congestion** – Check live congestion levels of all roads.  
 2️⃣ **Find the Best Route** – Get the optimal path between two locations, considering congestion.  
 3️⃣ **Predict Future Congestion** – Forecast congestion levels on a specific route.  
 4️⃣ **Exit** – Quit the program.  
@@ -46,9 +46,6 @@ A **Real-Time Traffic Congestion Predictor** that models a city's road network a
 🚀 Getting Started
 
 1. Clone the Repository
-bash
-Copy
-Edit
 git clone https://github.com/PriyanshuPritam/TrafficFlowOptimizer.git
 cd TrafficFlowOptimizer
 
