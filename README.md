@@ -58,3 +58,6 @@ python traffic_predictor.py
 🔹 Advanced machine learning models for better congestion prediction.
 🔹 Web or GUI interface for user-friendly interaction.
 
+
+Developed with 🚀 & ☕
+
